@@ -1,0 +1,14 @@
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+
+checkpoint/
+saved_model/
+
+*.keras
+*.tflite
+
+.ipynb_checkpoints/
+
+.DS_Store
